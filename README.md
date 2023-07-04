@@ -1,4 +1,4 @@
-![Banner](https://github.com/gabes-machado/nf_auto/blob/master/assets/nf_AUTO.png?raw=true)
+![Banner](https://github.com/gabes-machado/nfauto/blob/main/assets/nf_AUTO.png?raw=true)
 
 # <p align='center'> NF_AUTO
 
