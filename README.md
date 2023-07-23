@@ -30,13 +30,17 @@ After that you'll need to open git bash and clone the repo on your device using 
 
 ```git clone https://github.com/gabes-machado/nf_auto.git```
 
-After that just run the script in the shell using:
+Then just run:
+
+```python pip install -r requirements.txt```
+
+To install all dependencies, and after that just run the script in the shell using:
 
 ```python main.py```
 
 **Enjoy!**
 
-## <p align='center'> PROJECT DEVELOPMENT
+## <p align='center'> Project Development
 ## Problem:
 
 Every month brazilian accountants need to apurate tax reports, based on the revenue of their clients. Each client need to send their fiscal receipts by the 15th of each month to their accountants.
