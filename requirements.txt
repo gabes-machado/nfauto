@@ -5,7 +5,7 @@ certifi==2023.5.7
 cffi==1.15.1
 exceptiongroup==1.1.2
 h11==0.14.0
-idna==3.4
+idna==3.7
 outcome==1.2.0
 pycparser==2.21
 pysocks==1.7.1
